@@ -3,10 +3,13 @@
 A simple menu-driven Student Management System built using C++.
 
 ## Features
+
 - Add Student
 - Display Students
 - Search Student
-- Exit Program
+- Menu-driven Program
+- Built using Functions
+- Uses Structure and Arrays
 
 ## Technologies Used
 - C++
